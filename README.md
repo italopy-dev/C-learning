@@ -7,6 +7,7 @@
 - Entrada e saída de dados
 - Tipos de variáveis
 - Conversão de tipos de variáveis
+- Operadores logicos e ternario
 - Uma lista de exercícios básicos
 
 ## Observação
