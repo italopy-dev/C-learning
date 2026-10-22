@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+int main() {
     //caracteres
     char letra = 'a';
     printf("Imprimindo variavel do tipo char: %c\n", letra);
@@ -31,6 +31,7 @@ void main() {
     int a;
     printf("Imprimindo endereço da variavel a: %p\n", &a);
     
+    return 0;
 }
 
 //no windows, a impressao do long double pode dar problema

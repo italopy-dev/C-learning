@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+int main() {
 
     //E
     int coisa = (5 < 8 && 9 < 2); 
@@ -13,4 +13,6 @@ void main() {
     //NAO
     int coisa3 = (!5);
     //retorna 0, pois "não é 5"
+
+    return 0;
 }

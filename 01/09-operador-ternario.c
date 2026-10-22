@@ -1,9 +1,11 @@
 #include <stdio.h>
 
-void main() {
+int main() {
     int a = 6;
     int b = (a > 5) ? 1 : 0;
     printf("%i", b);
+
+    return 0;
 }
 
 /*O operador ternario '?' é tipo um if/else de uma linha só

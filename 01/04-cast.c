@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+int main() {
     float u = 6.7;
     int j = (int)u;
     printf("%i", j);
@@ -14,6 +14,6 @@ void main() {
     float h = 9.6;
     int l = (int)(u + 0.5);
     printf("%i", l);
-
+    return 0;
 }
     

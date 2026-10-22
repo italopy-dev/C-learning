@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+int main() {
     //caractere
     char nome; //caractere padrao
     unsigned char nome1; 
@@ -18,6 +18,8 @@ void main() {
     const int coisa7; 
     //string
     char Nome[] = "Dinossauro";
+
+    return 0;
 }
 
 /*o "unsigned" antes de definir a variavel faz com que ela só aceite numeros

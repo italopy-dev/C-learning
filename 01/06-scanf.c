@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+int main() {
     int idade;
     char letra;
 
@@ -11,5 +11,7 @@ void main() {
 
     printf("Sua inicial eh %c\
     e sua idade eh %i\n", letra, idade);
+
+    return 0;
 
 }
