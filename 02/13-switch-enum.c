@@ -31,6 +31,8 @@ int main() {
         case sabado:
         printf("Sabado!\n");
         break;
+        default:
+        printf("Voce nao digitou nenhum dia");
     }
 
     return 0;

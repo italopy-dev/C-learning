@@ -8,7 +8,8 @@
 - Tipos de variáveis
 - Conversão de tipos de variáveis
 - Operadores logicos e ternario
-- Uma lista de exercícios básicos
+- Estruturas condicionais e iteraveis
+- Exercicios
 
 ## Observação
 
