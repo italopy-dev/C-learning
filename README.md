@@ -9,6 +9,7 @@
 - Conversão de tipos de variáveis
 - Operadores logicos e ternario
 - Estruturas condicionais e iteraveis
+- Strings e arrays
 - Exercicios
 
 ## Observação
