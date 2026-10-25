@@ -1,6 +1,6 @@
 # EXERCICIOS EM C
 
-## Aqui está meus estudos e exercicios feitos na linguagem C que comecei a estudar recentemente
+## Aqui está meus estudos e exercicios feitos na linguagem C!
 
 ## Já possui:
 - Sintaxe básica de C
@@ -14,4 +14,4 @@
 
 ## Observação
 
-Esse repositório é para registrar minha evolução na linguagem C.
+Esse repositório é para registrar minha evolução de estudos na linguagem C.

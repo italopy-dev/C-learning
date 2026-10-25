@@ -21,7 +21,7 @@ int main() {
     //strcat(agora ADICIONANDO tá no final da string str2)
     strcat(str2, "-ADICIONANDO");
 
-    //strcmp(retorna negativo se forem diferentes e 0 se forem iguais)
+    //strcmp(retorna 0 se forem iguais)
     int resposta_comparacao = strcmp(str2, str);
 
 
