@@ -16,7 +16,7 @@ int main() {
     return 0;
 }
 
-//getchar: Lê apenas um caractere de cada vez a partir do canal de entrada(stdin)
+//getchar: Absorve apenas um caractere de cada vez a partir do canal de entrada(stdin)
 //o valor retornado do getchar tem que ser guardado num int
 
 //putchar: escreve um único caractere de forma crua no stdout.

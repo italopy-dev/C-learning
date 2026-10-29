@@ -5,7 +5,7 @@
 
 int main() {
     char palavra[50];
-    printf("Digite uma palavra(minimo 50 caracteres): ");
+    printf("Digite uma palavra(maximo 50 caracteres): ");
     scanf("%s", palavra);
 
     int qtd = strlen(palavra) - 1, j =qtd;

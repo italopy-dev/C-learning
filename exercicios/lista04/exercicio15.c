@@ -6,7 +6,7 @@
 int main() {
     char palavra[50];
     char caractere;
-    printf("Digite uma string(min 50 caracteres): ");
+    printf("Digite uma string(max 50 caracteres): ");
     fgets(palavra, 50, stdin);
     printf("\nDigite um caractere: ");
     scanf("%c", &caractere);
