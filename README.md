@@ -11,6 +11,7 @@
 - Estruturas condicionais e iteraveis
 - Strings, arrays e matrizes
 - Registros(structs)
+- Funções
 - Exercicios
 
 ## Observação
